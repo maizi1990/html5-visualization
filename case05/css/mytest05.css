@@ -1,0 +1,17 @@
+*{padding: 0;margin: 0;list-style: none;}
+html,body{
+	width: 100%;
+	height: 100%;
+	background: #0b0f34;
+
+}
+.header{width:100%;height: 38px;}
+.wrapper{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50px;
+	bottom: 0;
+	background:url(../img/wrapper-bg.png) no-repeat;
+	background-size: 100% 100%;
+}
